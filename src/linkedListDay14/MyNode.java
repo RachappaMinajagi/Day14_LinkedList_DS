@@ -20,6 +20,11 @@ public class MyNode {
         return next;
     }
 
+    public void setNext1(MyNode next) {
+        this.next = next;
+    }
+
+
     public void setNext(MyNode next) {
         this.next = next;
     }
