@@ -1,5 +1,4 @@
 package linkedListDay14;
-
 /* 
  * Created MyNode Class
  */

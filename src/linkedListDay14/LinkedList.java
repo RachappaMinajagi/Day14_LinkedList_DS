@@ -1,4 +1,5 @@
 package linkedListDay14;
+
 public class LinkedList {
 
 	/*
