@@ -1,4 +1,5 @@
 package linkedListDay14;
+
 /* 
  * Created MyNode Class
  */
@@ -19,11 +20,6 @@ public class MyNode {
 	public MyNode getNext() {
         return next;
     }
-
-    public void setNext1(MyNode next) {
-        this.next = next;
-    }
-
 
     public void setNext(MyNode next) {
         this.next = next;
